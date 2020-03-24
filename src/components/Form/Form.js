@@ -23,7 +23,7 @@ const Form = props =>{
         <div className="col-auto my-1">
           <button 
           type="submit" 
-          className="btn btn-primary" 
+            className="btn btn-dark" 
           onClick={props.handleFormSubmit}>Seach</button>
         </div>
       </div>
