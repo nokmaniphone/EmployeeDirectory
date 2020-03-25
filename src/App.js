@@ -58,6 +58,7 @@ class App extends Component {
                 handleInputChange={this.handleInputChange}
                 handleFormSubmit={this.handleFormSubmit}
                 handleSelectChange={this.handleSelectChange}
+                renderEmployees={this.renderEmployees}
               />
               <div className="col-12">
                 <div className="container">
