@@ -1,0 +1,1 @@
+{"version":3,"sources":["Card.css"],"names":[],"mappings":"AAAE,MACE,WAAY,CACZ,YAAa,CACb,eAAgB,CAChB,oBACF,CAEA,YACE,eAAgB,CAChB,gBACF","file":"main.95b366c5.chunk.css","sourcesContent":["  .card {\n    width: 300px;\n    height: 270px;\n    margin-top: 30px;\n    display: inline-block;\n  }\n\n  .card-title {\n    margin-top: 20px;\n    margin-left: 20px;\n  }"]}
